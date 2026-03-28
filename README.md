@@ -6,7 +6,8 @@
 
 <h2> 🤳 Connect with me:</h2>
 - [LinkedIn](https://www.linkedin.com/in/catherine-patriarca)
-
+  </a>
+</p>
 - 🔭 I’m currently working on cybersecurity home projects and my CompTia Security+ Certification
 - 🌱 I’m currently learning networking and security
 - 📫 How to reach me: catherine.grace.patriarcs@gmail.com or 650-666-9422
