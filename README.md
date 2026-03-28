@@ -7,9 +7,9 @@
 <h2> 🤳 Connect with me:</h2>
 - [LinkedIn](https://www.linkedin.com/in/catherine-patriarca)
 
-<h3>About me:</h3>
-- 🔭 I’m currently working on cybersecurity home projects and my CompTia Security+ Certification
-- 🌱 I’m currently learning networking and security
-- 📫 How to reach me: catherine.grace.patriarcs@gmail.com or 650-666-9422
-- 😄 Pronouns: She/Her
+### About me
+- 🔭 I’m currently working on cybersecurity home projects and my CompTIA Security+ Certification  
+- 🌱 I’m currently learning networking and security  
+- 📫 How to reach me: catherine.grace.patriarca@gmail.com  
+- 😄 Pronouns: She/Her  
 - ⚡ Fun fact: I like to read and hike
