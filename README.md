@@ -9,8 +9,6 @@
 
 [linkedin]: www.linkedin.com/in/catherine-patriarca
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on cybersecurity home projects and my CompTia Security+ Certification
 - 🌱 I’m currently learning networking and security
 - 📫 How to reach me: catherine.grace.patriarcs@gmail.com or 650-666-9422
