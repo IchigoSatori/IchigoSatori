@@ -5,9 +5,7 @@
   - [LGTM](https://github.com/IchigoSatori/LGTM.git)
 
 <h2> 🤳 Connect with me:</h2>
-- [<img align="left" alt="CatherinePatriarca | LinkedIn" width="22px" src="www.linkedin.com/in/catherine-patriarca" />][linkedin]
-
-- [linkedin]: www.linkedin.com/in/catherine-patriarca
+- [LinkedIn](https://www.linkedin.com/in/catherine-patriarca)
 
 - 🔭 I’m currently working on cybersecurity home projects and my CompTia Security+ Certification
 - 🌱 I’m currently learning networking and security
